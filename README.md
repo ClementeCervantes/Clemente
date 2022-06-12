@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ClementeCervantes
+- 👋 Hi, I’m @Clemente
 - 👀 I’m interested in networking and SQL.
 
 
